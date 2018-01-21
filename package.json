@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "description":
+    "Sample code to use Puppeteer library. It makes the background of GitHub's top page red and takes a screenshot of it",
+  "main": "index.js",
+  "repository": "https://github.com/skatsuta/puppeteer-sample",
+  "author": "Soshi Katsuta <soshi.katsuta@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
