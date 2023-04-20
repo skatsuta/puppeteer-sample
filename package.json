@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "puppeteer": "^1.0.0"
+    "puppeteer": "^19.4.0"
   },
   "scripts": {
     "start": "node index.js"
